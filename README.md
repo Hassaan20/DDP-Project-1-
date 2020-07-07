@@ -1,1 +1,1 @@
-# DDP-Project-1-
+# Developing Data Products Course Project 1
